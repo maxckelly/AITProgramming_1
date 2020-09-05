@@ -1,0 +1,1 @@
+userInput == emptyArray[i] ? displayedCount +1 : displayedCount;
